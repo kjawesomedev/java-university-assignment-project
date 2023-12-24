@@ -1,0 +1,7 @@
+101,Basic English,2
+CS101,Computer  Fundamentals,2
+101,Basic English,1
+101,Basic English,3
+1012,intermediate English,5
+104,Something,7
+101,Computer Fundamentals,7
